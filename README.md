@@ -9,8 +9,8 @@ Technologies and tools I've used with this project:
   - Javascript
   - Figma
 
-  Live: https://web-devvv.github.io/minimalistic-ecommerce-site-sketch/
+  Live: https://DawidMaka.github.io/minimalistic-ecommerce-site-sketch/
 
-  Src: https://github.com/web-deVVV/minimalistic-ecommerce-site-sketch/tree/master/src
+  Src: https://github.com/DawidMaka/minimalistic-ecommerce-site-sketch/tree/master/src
 
   Sketch file: https://www.sketchappsources.com/free-source/4144-minimalistic-ecommerce-site-sketch-freebie-resource.html
